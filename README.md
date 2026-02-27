@@ -24,11 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub 통계
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=swbaek97&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swbaek97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💻 주요 프로젝트
 ### 오디오 언어모델의 경량 모델링 레시피 탐구
 - 🔗 [프로젝트 링크](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-12-lv3)
@@ -50,7 +45,6 @@
 ## 📫 연락처
 - 이메일: swbaek97@gmail.com
 - 링크드인: www.linkedin.com/in/swbaek97
-- 포트폴리오: https://mini-sidewalk-439.notion.site/Hello-I-m-19e12bdcd63580508aa9d85124570d34
 
 ---
 
